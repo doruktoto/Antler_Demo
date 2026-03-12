@@ -1,0 +1,3 @@
+bsm2_python
+pandas
+pathlib
