@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/dorukruzto/Desktop/desktop/lir/Software-Prototyping/WWTP_Energy_Optimisation /input_data/**)"
+    ]
+  }
+}
